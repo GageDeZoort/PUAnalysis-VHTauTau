@@ -19,6 +19,4 @@ Once everything's compiled, try running the analysis as follows:
 cd PUAnalysis
 cmsRun TT-MC-Sync.py
 ```
-The output ntuple is __analysis_VHtt_mmmt.root__, which corresponds to Z->mumu and H->tautau. 
-
-
+The output ntuple is __analysis_VHtt_mmmt.root__, which corresponds to the Z decaying to MuMu and the Higgs decaying to TauTau. Take particular note of the ZMass and HiggsMass variables in the event tree. 
